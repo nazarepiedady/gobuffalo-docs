@@ -1,56 +1,56 @@
 ---
-name: Overview
+name: Visão de conjunto
 icon: "images/overview.svg"
-seoDescription: Buffalo framework overview
+seoDescription: Visão de conjunto da abstração Buffalo
 seoKeywords: ["buffalo", "framework", "overview", "go", "golang", "mux", "bootstrap", "jquery"]
 aliases:
   - /docs/overview
   - /pt/docs/overview
 ---
 
-# Overview
+# Visão de conjunto
 
-Welcome aboard!
+Bem-vindo a bordo
 
-While Buffalo can be considered as a framework, it's mostly an ecosystem of Go and Javascript libraries curated to fit together. Most of these components can be switched for another, but we'll only provide support for this default mix.
+Embora a Buffalo possa ser considerada como uma abstração, é na maior parte das vezes um ecossistema de Go e bibliotecas de JavaScript curadas para se ajustarem juntas. A maioria destes componentes podem ser trocadas por um outro, mas só iremos fornecer suporte para esta mistura padrão.
 
-In this chapter, we'll make a tour of the default bricks shipped with your Buffalo app.
+Neste capítulo, faremos uma excursão dos tijolos padrão entregados com a tua aplicação Buffalo.
 
-## Backend libraries
+## Bibliotecas de backend
 
 ### buffalo
 
-Buffalo is the "glue" between all the provided components. It wraps the libraries and manages the workflow.
+A Buffalo é a "cola" entre todos os componentes fornecidos. Ela envolve as bibliotecas e administra o fluxo de trabalho.
 
 ### gorilla/mux
 
-[gorilla/mux](http://www.gorillatoolkit.org/pkg/mux) is one of the most used routers in Go. While some routers are faster (like [httprouter](https://github.com/julienschmidt/httprouter)), gorilla/mux is the one providing the most features while being fast enough.
+O [gorilla/mux](http://www.gorillatoolkit.org/pkg/mux) é um dos roteadores mais utilizados no Go. Enquanto alguns roteadores são mais rápido (como o [httprouter](https://github.com/julienschmidt/httprouter)), `gorilla/mux` é aquele fornecendo a maioria das funcionalidades enquanto sendo rápido o suficiente.
 
 ### pop
 
-[pop](https://github.com/gobuffalo/pop) is the default ORM for Buffalo. It provides the `soda` toolbox to help you with your database needs and supports several databases, such as PostgreSQL, MySQL and SQLite.
+O [pop](https://github.com/gobuffalo/pop) é o modelo relacional de objeto (ORM, sigla em Inglês). Ele fornece a caixa de ferramenta `soda` para ajudar-te com as tuas necessidades de base de dado e suporta várias bases de dados, tais como PostgreSQL, MySQL e SQLite. 
 
 ### plush
 
-[plush](https://github.com/gobuffalo/plush) is the default templating engine for Buffalo. Its syntax is close to ERB templates (in Ruby).
+O [plush](https://github.com/gobuffalo/plush) é o gerador de modelos de marcação padrão para a Buffalo. Sua sintaxe é próxima aos modelos de marcação de ERB (no Ruby).
 
 
-## Frontend libraries
+## Bibliotecas frontend
 
 ### Bootstrap
 
-[Bootstrap](https://getbootstrap.com/) is one of the most famous frontend toolkit library. It helps to build responsive interfaces using common components like tables, carousels or grid layouts.
+A [Bootstrap](https://getbootstrap.com/) é uma das bibliotecas de frontend mais famosas. Ela ajuda a construir interfaces que se adaptam ao tamanho e resolução da tela dos dispositivos utilizando componentes comuns como tabelas, carroceis ou esquemas de grade.
 
 ### jQuery
 
-[jQuery](https://jquery.com/) is a rich library aiming to make DOM manipulation and AJAX queries simple. While it's less used now, many projects still have it as a side-companion to help supporting all the browsers.
+A [jQuery](https://jquery.com/) é uma biblioteca rica com o objetivo de tornar a manipulação do modelo de objeto do documento (DOM, sigla em Inglês) e consultas puras de AJAX. Embora seja menos utilizada agora, muitos projetos ainda a têm como uma companheira para ajudar a suportar todos os navegadores.
 
 ### Webpack
 
-[Webpack](https://webpack.js.org/) is a well-known Javascript assets bundler. It will take care of your Javascript, CSS, images and static assets files.
+O [Webpack](https://webpack.js.org/) é um empacotador de recursos de JavaScript bem conhecido. Ele cuidará dos teus ficheiros de recursos estáticos de JavaScript, CSS, imagens.
 
-Webpack is configured by default to hash and minify your assets.
+O Webpack está configurado por padrão para embaralhar e tornar os teus recursos menores em questão de peso de ficheiro.
 
-## Next Steps
+## Próximos passos
 
-* [Installation](/en/docs/getting-started/installation) - Install Buffalo!
+* [Instalação](/en/docs/getting-started/installation) - Instalar a Buffalo!
