@@ -1,59 +1,59 @@
 ---
-name: Support
+name: Suporte
 icon: "images/support.svg"
 aliases:
   - /pt/docs/support
 ---
 
-# Support
+# Suporte
 
-If you are looking for support, [training](https://www.gopherguides.com/in-person-training/), or [consulting](https://www.gopherguides.com/consulting/) for your Buffalo project, the [Gopher Guides](https://www.gopherguides.com) (founded by Mark Bates - founder of Buffalo) are the official trainers and consultants for the Buffalo ecosystem.
+Se estiveres procurando por suporte, [treinamento](https://www.gopherguides.com/in-person-training/), ou [consultoria](https://www.gopherguides.com/consulting/) para o teu projeto Buffalo, Os [Guias do Gopher](https://www.gopherguides.com) (fundado por Mark Bates - fundador da Buffalo) são os treinadores e consultores oficiais para o ecossistema da Buffalo.
 
-## Buffalo Project Audit
+## Auditoria de Projeto Buffalo
 
-Whether you are starting your first Buffalo project, or getting ready to launch one, have the [Gopher Guides](https://www.gopherguides.com) audit the code to make sure you are successful. Here are just some of the things an audit gets you:
+Quer estejas começando o teu primeiro projeto em Buffalo, ou preparando-se para lançar um, ter os [Guias do Gopher](https://www.gopherguides.com) fazendo uma auditoria do código garante o teu sucesso. Cá está apenas algumas das coisas que uma auditoria podem oferecer-te:
 
-* Upgrade to latest version (if desired)
-* Audit Tests
-* Race Condition Audit
-* Performance Audit
-* Idiomatic and Syntax Audit
-* Audit routes and endpoints for efficiency and common mistakes
-* Log All Issues
+* Atualização para a versão mais recente (se desejada)
+* Auditoria dos Testes
+* Auditoria de Condição Corrida
+* Auditoria de Desempenho
+* Auditoria de Sintaxe e Idiomática
+* Auditar rotas e destinos para eficiência e erros comuns
+* Registo de Todos os Problemas
 
-[Learn More](https://www.gopherguides.com/consulting/)
+[Saiba Mais](https://www.gopherguides.com/consulting/)
 
-## Buffalo Developer Support
+## Suporte de Programador de Buffalo
 
-Working on Buffalo daily? The [Gopher Guides](https://www.gopherguides.com) offer a Buffalo Developer Support Program with which you get priority responses on:
+Estás trabalhando na Buffalo diariamente? Os [Guias do Gopher](https://www.gopherguides.com) oferecem um Programa de Suporte de Programador de Buffalo com qual recebes respostas com certa prioridade em:
 
-* Pull Requests
-* Issues
-* Feature Requests
-* Priority Private Email
-* Private Slack Channel
+* Requisições de Puxão (Pull Requests, em Inglês)
+* Problemas (Issues, em Inglês)
+* Requisições de Funcionalidades
+* Correio Eletrónico Privado
+* Canal Privado de Slack
 
-[Learn More](https://www.gopherguides.com/consulting/)
+[Saiba Mora](https://www.gopherguides.com/consulting/)
 
-## Training
+## Treinamento
 
-Is your company, or team, getting ready to do your first major Buffalo, or Go, project? The [Gopher Guides](https://www.gopherguides.com) have been bringing companies up to speed for years with their customized training platform and curriculum.
+A tua empresa, ou equipa, está preparando-se para fazer o teu primeiro maior projeto em Buffalo ou Go? Os [Guias do Gopher](https://www.gopherguides.com) têm ajudado empresas a aumentar a sua velocidade por anos com sua plataforma de treinamento e currículo personalizado.
 
-They work with you and your organization to create a completely customized training program tailored to your exact needs. They don't push prepackaged materials or outlines on you, because your business and project is unique.
+Eles trabalham contigo e com a tua organização para criar um programa de treinamento completamente personalizado feito à medida das tuas necessidades. Elas não empurram materiais previamente empacotados ou desalinhados contigo, porque o teu negocio e projeto é único.
 
-With in person, on site, training a prominent member of the Go community travels to your facility to help get your team up to speed in as little as two days.
+Em pessoa, no sítio, de treinamento um membro proeminente da comunidade de Go viaja até as tuas instalações para ajudar-te a aumentar a velocidade da tua equipa em dois dias.
 
-[Learn More](https://www.gopherguides.com/in-person-training/)
+[Saiba Mais](https://www.gopherguides.com/in-person-training/)
 
-## Consulting
+## Consultoria
 
-Need help with a current project? The [Gopher Guides](https://www.gopherguides.com) experts can help. Here are just some of their specialties:
+Precisas de ajuda com o projeto atual? Os especialistas dos [Guias do Gopher](https://www.gopherguides.com) podem ajudar. Cá está só algumas de suas especialidades:
 
-* Systems Development
-* Web API (include Buffalo)
+* Desenvolvimento de Sistemas
+* API da Web (inclui Buffalo)
 * gRPC
-* Networking Systems
-* Third Party Integration's
-* Payment Processing
+* Sistemas de Redes
+* Integrações com Serviços de Terceiros
+* Processamento de Pagamento
 
-[Learn More](https://www.gopherguides.com/consulting/)
+[Saiba Mais](https://www.gopherguides.com/consulting/)
